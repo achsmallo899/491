@@ -1,0 +1,1 @@
+An intelligent fraud detection system that utilizes machine learning algorithms to analyze transactional data, accurately identifying and preventing fraudulent activities.
